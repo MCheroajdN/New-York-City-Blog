@@ -51,4 +51,4 @@ Project is completed as required.
 
 ## Author/Contact
 * M. Christopher
-* GitHub: https://mcheroajdn.github.io/New-York-City-Blog/Proj-New-York-City-Blog
+* GitHub: https://mcheroajdn.github.io/New-York-City-Blog/index.html
